@@ -4,11 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="shortcut icon" href="favicon-32x32.png" type="image/x-icon">
-    <title>Camisas Cristãs - Loja Online</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Loja Emaús</title>
+    <link rel="stylesheet" href="../css/styles.css"> <!-- Certifique-se de que o caminho está correto -->
 </head>
-<body>
     <!-- Cabeçalho -->
     <header>
         <div class="logo">
@@ -16,13 +14,15 @@
         </div>
         <nav>
             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="cart.html">Carrinho</a></li>
+                <li><a href="home.php">home</a></li>
+                <li><a href="index.php">Produtos</a></li>
+                <li><a href="cart.php">Carrinho</a></li>
                 <li><a href="#">Sobre</a></li>
-                <li><a href="#">Contato</a></li>
+                <li><a href="cadastro_produto.php">Contato</a></li>
             </ul>
         </nav>
     </header>
+        
 
     <!-- Seção principal -->
     <main>
